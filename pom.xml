@@ -21,7 +21,7 @@
     <module>webapp</module>
   </modules>
 
-  <distributionManagement>
+  <distributonManagement>
     <site>
       <id>site-server</id>
       <name>Test Project Site</name>
